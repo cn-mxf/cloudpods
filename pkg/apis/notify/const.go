@@ -23,7 +23,7 @@ import (
 const (
 	SERVICE_TYPE    = apis.SERVICE_TYPE_NOTIFY
 	SERVICE_VERSION = ""
-
+	//测试提交
 	EMAIL          = "email"
 	MOBILE         = "mobile"
 	DINGTALK       = "dingtalk"
