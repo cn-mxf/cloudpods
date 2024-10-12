@@ -24,6 +24,7 @@ const (
 	SERVICE_TYPE    = apis.SERVICE_TYPE_NOTIFY
 	SERVICE_VERSION = ""
 	//测试提交
+	//ceshi
 	EMAIL          = "email"
 	MOBILE         = "mobile"
 	DINGTALK       = "dingtalk"
